@@ -1,0 +1,8 @@
+.venv
+
+build
+.vscode
+.vs
+out
+
+modules/*
